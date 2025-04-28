@@ -112,7 +112,7 @@ const wali = {
 
 <!-- Rainy Night Divider -->
 <div align="center">
-  <img src="https://github.com/Wali05/Wali05/blob/main/assests/void.jpeg" width="50%" alt="void">
+  <img src="https://github.com/Wali05/Wali05/blob/main/assests/void.jpeg" width="65%" alt="void">
   <p><i>"In the silence between raindrops, clarity emerges. The noise of the world fades when you learn to listen to yourself."</i></p>
 </div>
 
