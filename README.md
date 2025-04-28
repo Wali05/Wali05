@@ -37,7 +37,7 @@
 </h2>
 
 <div align="center">
-  <img align="right" height="540" src="https://github.com/Wali05/Wali05/blob/main/assests/sky.jpeg" alt="sky">
+  <img align="right" height="500" src="https://github.com/Wali05/Wali05/blob/main/assests/sky.jpeg" alt="sky">
 </div>
 
 ```typescript
