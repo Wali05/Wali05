@@ -18,6 +18,9 @@
   <a href="mailto:waliahed05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://leetcode.com/u/_Aw0ken_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </div>
 
 
