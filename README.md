@@ -129,7 +129,7 @@ const wali = {
 
 <!-- Final Quote -->
 <div align="center">
-  <img src="" width="300" alt="Anime character in peaceful setting" style="margin-top: 30px;">
+  <img src="https://github.com/Wali05/Wali05/blob/main/assests/Peace.jpg" width="300" alt="Anime character in peaceful setting" style="margin-top: 30px;">
   <p><i>"The path to strength is not found in constant motion, but in moments of deliberate stillness."</i></p>
 </div>
 
