@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=🥤+Sup%2C+Wali+here;🗇+Software+dev;ようこそ.;Look+around+if+you+want;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&color=808080&center=true&vCenter=true&random=false&width=600&lines=🥤+Sup%2C+Wali+here;🗇+Software+dev;ようこそ.;Look+around+if+you+want;">
 </div>
 
 <!-- Animated Banner with Anime Style -->
