@@ -152,7 +152,7 @@ const wali = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=THANKS+FOR+VISITING" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=808080&center=true&vCenter=true&random=false&width=435&lines=THANKS+FOR+VISITING" alt="Thanks" />
 </div>
 
 <!-- Snake Animation -->
