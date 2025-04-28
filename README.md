@@ -25,10 +25,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=grey" alt="LeetCode">
   </a>
   
-  <a href="https://codeforces.com/profile/Kira_Dev">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&color=grey" alt="Codeforces">
-  </a>
-  
 </div>
 
 <!-- About Me Section with Animated Text -->
