@@ -11,21 +11,24 @@
 
 <!-- Profile Views Counter and Social Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wali05&style=for-the-badge&color=grey" alt="Profile Views">
-  
-  <a href="https://www.linkedin.com/in/wali-ahed-hussain-41b549252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=grey" alt="LinkedIn">
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/-About%20Me-grey?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="About Me"/>
   </a>
-  
-  <a href="mailto:waliahed05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=grey" alt="Email">
+  <a href="#tech-arsenal">
+    <img src="https://img.shields.io/badge/-Tech%20Arsenal-grey?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Tech Arsenal"/>
   </a>
-  
-  <a href="https://leetcode.com/u/_Aw0ken_/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=grey" alt="LeetCode">
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/-Projects-grey?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
-  
+  <a href="#stats">
+    <img src="https://img.shields.io/badge/-Stats-grey?style=for-the-badge&logo=github-stats&logoColor=white" alt="Stats"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Wali05&style=for-the-badge&color=grey" alt="Profile Views" />
+  <a href="mailto:waliahed05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
+
 
 <!-- About Me Section with Animated Text -->
 <h2 align="center">
@@ -109,13 +112,10 @@ const wali = {
 </h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Wali05&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Wali05&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wali05&count_private=true&show_icons=true&theme=react&bg_color=0d1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wali05&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wali05&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" alt="Most Used Languages" />
-</div>
 
 
 <div align="center">
