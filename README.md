@@ -33,7 +33,7 @@
 
 <!-- About Me Section with Animated Text -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=ABOUT+ME" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=808080&center=true&vCenter=true&random=false&width=435&lines=ABOUT+ME" alt="About Me" />
 </h2>
 
 <div align="center">
@@ -71,7 +71,7 @@ const wali = {
 
 <!-- Animated Tech Stack -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=TECH+ARSENAL" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=808080&center=true&vCenter=true&random=false&width=435&lines=TECH+ARSENAL" alt="Tech Stack" />
 </h2>
 
 <div align="center">
@@ -109,7 +109,7 @@ const wali = {
 
 <!-- GitHub Stats with Animations -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=STATS+SUMMARY" alt="Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=808080&center=true&vCenter=true&random=false&width=435&lines=STATS+SUMMARY" alt="Stats" />
 </h2>
 
 <div align="center">
@@ -136,7 +136,7 @@ const wali = {
 
 <!-- Contribution Graph -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=CONTRIBUTION+ACTIVITY" alt="Activity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=808080&center=true&vCenter=true&random=false&width=435&lines=CONTRIBUTION+ACTIVITY" alt="Activity" />
 </h2>
 
 <p align="center"><i>"Consistency is the silent architect of excellence. Each small contribution builds the foundation of something greater."</i></p>
