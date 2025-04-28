@@ -108,6 +108,7 @@ const wali = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wali05&count_private=true&show_icons=true&theme=react&bg_color=0d1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wali05&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wali05&layout=compact&theme=react&bg_color=0d1117&title_color=FFFFFF&text_color=CCCCCC" alt="Most Used Languages"/>
 </div>
 
 <!-- Rainy Night Divider -->
