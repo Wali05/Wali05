@@ -14,15 +14,6 @@
   <a href="#about-me">
     <img src="https://img.shields.io/badge/-About%20Me-grey?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="About Me"/>
   </a>
-  <a href="#tech-arsenal">
-    <img src="https://img.shields.io/badge/-Tech%20Arsenal-grey?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Tech Arsenal"/>
-  </a>
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/-Projects-grey?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-  </a>
-  <a href="#stats">
-    <img src="https://img.shields.io/badge/-Stats-grey?style=for-the-badge&logo=github-stats&logoColor=white" alt="Stats"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Wali05&style=for-the-badge&color=grey" alt="Profile Views" />
   <a href="mailto:waliahed05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
