@@ -110,14 +110,6 @@ const wali = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wali05&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 </div>
 
-
-
-<div align="center">
-  <a href="https://github.com/settings/appearance" target="_blank">
-    <img src="https://i.ibb.co/MgVRJgK/thinking-anime-character.gif" width="280" alt="Contemplative anime character">
-  </a>
-</div>
-
 <!-- Rainy Night Divider -->
 <div align="center">
   <img src="https://github.com/Wali05/Wali05/blob/main/assests/void.jpeg" width="80%" alt="void">
@@ -137,7 +129,7 @@ const wali = {
 
 <!-- Final Quote -->
 <div align="center">
-  <img src="https://i.ibb.co/KzPPXdS/silent-anime-character.gif" width="300" alt="Anime character in peaceful setting" style="margin-top: 30px;">
+  <img src="" width="300" alt="Anime character in peaceful setting" style="margin-top: 30px;">
   <p><i>"The path to strength is not found in constant motion, but in moments of deliberate stillness."</i></p>
 </div>
 
