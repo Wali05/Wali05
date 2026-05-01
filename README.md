@@ -36,21 +36,17 @@
 ```typescript
 const wali = {
   name: "Wali",
-  status: "inactive",
-  focus: "zero",
-  method: "not-working",
+  status: "building",
+  focus: "agentic systems",
+  method: "ship-first",
   while: () => {
-    if (state === "moving") {
-      return "progressin";
-    } else if (state === "silent") {
-      return "observing";
-    } else {
-      return "pausing";
-    }
+    if (state === "moving") return "shipping";
+    if (state === "silent") return "architecting";
+    else return "debugging at 2am";
   },
-  state: "silent",
-  discipline: "Lies",
-  approach: "Hollow",
+  state: "moving",
+  discipline: "relentless",
+  approach: "systems-first",
   principle: "if it's not results, it's nothing",
   goal: () => "Peace",
 };
