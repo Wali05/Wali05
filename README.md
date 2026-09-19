@@ -1,14 +1,10 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Wali05&label=views&color=0d1117&style=flat-square&labelColor=161b22&base=5380" alt="views" height="18" />
+</div>
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-card.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-card-light.svg" />
-  <img
-    src="./assets/profile-card.svg"
-    width="360"
-    alt="Binary portrait of Wali Ahed Hussain"
-  />
-</picture>
+<img src="./assets/sharingan.png" width="540" alt="Sharingan" />
 
 # Wali Ahed Hussain
 
@@ -37,14 +33,6 @@ Building developer tooling that reconstructs context around failed commands — 
 <div align="center">
 
 `make state explicit` &nbsp;·&nbsp; `make failure observable` &nbsp;·&nbsp; `make guarantees testable`
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/systems-trace.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/systems-trace-light.svg" />
-  <img src="./assets/systems-trace.svg" width="680" alt="System state &amp; recovery trace" />
-</picture>
 
 </div>
 
