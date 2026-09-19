@@ -1,0 +1,9 @@
+# IDE and telemetry
+.qodo/
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
