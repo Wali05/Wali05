@@ -1,24 +1,28 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=header" width="100%" alt="header wave" />
+</div>
+
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Wali05&label=views&color=0d1117&style=flat-square&labelColor=161b22&base=5380" alt="views" height="18" />
+  <img src="https://komarev.com/ghpvc/?username=Wali05&label=views&color=e60012&style=flat-square&labelColor=161b22&base=5380" alt="views" height="18" />
 </div>
 
 <div align="center">
 
-<img src="./assets/sharingan.png" width="540" alt="Sharingan" />
+<img src="./assets/akatsuki-cloud.svg" width="220" alt="Akatsuki Cloud" />
 
-# Wali Ahed Hussain
+# <font color="#ffffff">Wali Ahed</font> <font color="#e60012">Hussain</font>
 
-**Backend Systems · Distributed Systems · Developer Infrastructure**
+**<font color="#ff4d4f">Backend Systems</font> &nbsp;·&nbsp; <font color="#ffffff">Distributed Systems</font> &nbsp;·&nbsp; <font color="#ff4d4f">Developer Infrastructure</font>**
 
-I build software that stays understandable when the happy path disappears.
+*<font color="#8b949e">I build software that stays understandable when the happy path disappears.</font>*
 
 <br>
 
-<a href="mailto:waliahed05@gmail.com">Email</a>
+<a href="mailto:waliahed05@gmail.com"><font color="#ff4d4f"><b>Email</b></font></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/wali-ahed-hussain-41b549252/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/wali-ahed-hussain-41b549252/"><font color="#ffffff"><b>LinkedIn</b></font></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Wali05?tab=repositories">Repositories</a>
+<a href="https://github.com/Wali05?tab=repositories"><font color="#ff4d4f"><b>Repositories</b></font></a>
 
 </div>
 
@@ -34,19 +38,31 @@ Building developer tooling that reconstructs context around failed commands — 
 
 `make state explicit` &nbsp;·&nbsp; `make failure observable` &nbsp;·&nbsp; `make guarantees testable`
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/systems-trace.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/systems-trace-light.svg" />
+  <img src="./assets/systems-trace.svg" width="680" alt="System state &amp; recovery trace" />
+</picture>
+
 </div>
 
 <br>
 
 ```text
-Java · Python · TypeScript · SQL
-Spring Boot · FastAPI · Next.js · React
-PostgreSQL · Oracle · Docker · Linux
+• Languages       Java · Python · TypeScript · SQL
+• Frameworks      Spring Boot · FastAPI · Next.js · React
+• Infrastructure  PostgreSQL · Oracle · Docker · Linux
 ```
 
 <br>
 
 <div align="center">
+
+<img src="./assets/sharingan-eyes.svg" width="620" alt="Mangekyo Sharingan Eyes" />
+
+<br><br>
 
 <picture>
   <source
@@ -63,6 +79,14 @@ PostgreSQL · Oracle · Docker · Linux
   />
 </picture>
 
+<br>
+
 <sub>build → break → understand → rebuild</sub>
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=footer&reversal=true" width="100%" alt="reversed footer wave" />
 </div>
