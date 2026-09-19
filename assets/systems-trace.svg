@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="92" viewBox="0 0 720 92" role="img" aria-label="System State &amp; Recovery Trace">
+  <defs>
+    <marker id="arrow_dark" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 6 4 L 0 6.5 z" fill="#8b949e"/>
+    </marker>
+    <marker id="arrowActive_dark" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 6 4 L 0 6.5 z" fill="#58a6ff"/>
+    </marker>
+  </defs>
+
+  <!-- Trace Connectors -->
+  <!-- request -> state -->
+  <line x1="108" y1="30" x2="162" y2="30" stroke="#30363d" stroke-width="1.2" marker-end="url(#arrow_dark)"/>
+  
+  <!-- state -> persist -->
+  <line x1="242" y1="30" x2="318" y2="30" stroke="#30363d" stroke-width="1.2" marker-end="url(#arrow_dark)"/>
+  
+  <!-- state -> observe branch -->
+  <path d="M 203 44 L 203 68 L 235 68" fill="none" stroke="#30363d" stroke-width="1.2" marker-end="url(#arrow_dark)" stroke-linejoin="round"/>
+  
+  <!-- persist -> failure branch -->
+  <path d="M 378 44 L 378 68 L 405 68" fill="none" stroke="#30363d" stroke-width="1.2" marker-end="url(#arrow_dark)" stroke-linejoin="round"/>
+  
+  <!-- observe -> failure link -->
+  <line x1="305" y1="68" x2="405" y2="68" stroke="#30363d" stroke-width="1.2" stroke-dasharray="3 3"/>
+  
+  <!-- persist -> recover (happy path) -->
+  <path d="M 436 30 L 510 30 L 550 42" fill="none" stroke="#30363d" stroke-width="1.2" marker-end="url(#arrow_dark)" stroke-linejoin="round"/>
+  
+  <!-- failure -> recover (recovery path) -->
+  <path d="M 495 68 L 530 68 L 550 56" fill="none" stroke="#58a6ff" stroke-width="1.2" marker-end="url(#arrowActive_dark)" stroke-linejoin="round"/>
+
+  <!-- Schematic Nodes (Micro Monospace Wireframes) -->
+  
+  <!-- Node 1: request -->
+  <g transform="translate(30, 16)">
+    <rect x="0" y="0" width="76" height="28" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="38" y="18" fill="#e6edf3" font-family="'SF Mono', 'Segoe UI Mono', Consolas, monospace" font-size="11" font-weight="600" text-anchor="middle" letter-spacing="0.5">request</text>
+  </g>
+
+  <!-- Node 2: state -->
+  <g transform="translate(166, 16)">
+    <rect x="0" y="0" width="74" height="28" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="37" y="18" fill="#e6edf3" font-family="'SF Mono', 'Segoe UI Mono', Consolas, monospace" font-size="11" font-weight="600" text-anchor="middle" letter-spacing="0.5">state</text>
+  </g>
+
+  <!-- Node 3: persist -->
+  <g transform="translate(322, 16)">
+    <rect x="0" y="0" width="82" height="28" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="41" y="18" fill="#e6edf3" font-family="'SF Mono', 'Segoe UI Mono', Consolas, monospace" font-size="11" font-weight="600" text-anchor="middle" letter-spacing="0.5">persist</text>
+  </g>
+
+  <!-- Node 4: observe -->
+  <g transform="translate(237, 54)">
+    <rect x="0" y="0" width="82" height="28" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="41" y="18" fill="#8b949e" font-family="'SF Mono', 'Segoe UI Mono', Consolas, monospace" font-size="11" font-weight="500" text-anchor="middle" letter-spacing="0.5">observe</text>
+  </g>
+
+  <!-- Node 5: failure -->
+  <g transform="translate(409, 54)">
+    <rect x="0" y="0" width="82" height="28" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="41" y="18" fill="#8b949e" font-family="'SF Mono', 'Segoe UI Mono', Consolas, monospace" font-size="11" font-weight="500" text-anchor="middle" letter-spacing="0.5">failure</text>
+  </g>
+
+  <!-- Node 6: recover -->
+  <g transform="translate(554, 35)">
+    <rect x="0" y="0" width="84" height="28" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.2"/>
+    <text x="42" y="18" fill="#e6edf3" font-family="'SF Mono', 'Segoe UI Mono', Consolas, monospace" font-size="11" font-weight="600" text-anchor="middle" letter-spacing="0.5">recover</text>
+  </g>
+
+</svg>
