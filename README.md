@@ -23,6 +23,7 @@
 <a href="https://www.linkedin.com/in/wali-ahed-hussain-41b549252/"><font color="#ffffff"><b>LinkedIn</b></font></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.wali.codes/"><font color="#ff4d4f"><b>Portfolio</b></font></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/Wali05?tab=repositories"><font color="#ff4d4f"><b>Repositories</b></font></a>
 
 
